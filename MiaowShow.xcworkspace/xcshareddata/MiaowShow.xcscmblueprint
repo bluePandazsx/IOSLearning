@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "93746403561C732042119DFBA3C74CFA7F7EDFFC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC7F3DC1F0DBEBE8F9147C626D56831EE9AF3732" : 9223372036854775807,
+    "93746403561C732042119DFBA3C74CFA7F7EDFFC" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D7997D25-FDA7-4E55-BF2F-A99FD7625E93",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC7F3DC1F0DBEBE8F9147C626D56831EE9AF3732" : "RNFrostedSidebar\/",
+    "93746403561C732042119DFBA3C74CFA7F7EDFFC" : "MiaowShow\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MiaowShow",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MiaowShow\/MiaowShow.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bluePandazsx\/MiaowShow",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "93746403561C732042119DFBA3C74CFA7F7EDFFC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rnystrom\/RNFrostedSidebar",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC7F3DC1F0DBEBE8F9147C626D56831EE9AF3732"
+    }
+  ]
+}
